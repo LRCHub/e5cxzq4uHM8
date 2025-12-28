@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "大嫌いで、本当に最低で",
+  "base_artist": "BLUES DRIVER",
+  "createdAt": "2025-12-28T08:54:54.410108Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大嫌いで、本当に最低で",
+      "artist": "BLUES DRIVER",
+      "has_synced": false,
+      "path": "select/pl_01_大嫌いで、本当に最低で_BLUES_DRIVER.txt"
+    }
+  ]
+}
